@@ -12,4 +12,8 @@
   <a href="https://astracoder.github.io/quiz-cars-game/">✔ Quiz Cars Game 1.0 ✔</a>
 </h1>
 
+<p align="center">
+  This game was developed in one of the projects, it is very simple, but it tested my logic a lot, of course I needed help on the internet, but that was the end.
+</p>
+
 <img src="/QuizCarsGame.png">
